@@ -1,0 +1,8 @@
+# Python specific exclusions
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.egg-info/
+*.egg
+*.log
